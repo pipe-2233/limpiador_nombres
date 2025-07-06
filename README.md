@@ -9,7 +9,7 @@ Organiza tus archivos de forma limpia, eliminando espacios, mayúsculas innecesa
 ## 📷 Vista previa
 
 > Interfaz amigable con Tkinter (GUI nativa de Python).
-
+![Vista previa del programa](vista_previa.png)
 ---
 
 ## 🚀 Funcionalidades
